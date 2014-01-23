@@ -1,7 +1,7 @@
 Airport Status V1.0
 =============
 
-A small PHP webpage to display statistics from a Apple Airport networking device.
+A small PHP webpage to display statistics from a [Apple Airport](https://www.apple.com/compare-wifi-models/) networking device. 5Ghz model required.
 
 ![Screenshot](http://i.imgur.com/lM6UfT3.png)
 
