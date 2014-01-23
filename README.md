@@ -1,4 +1,4 @@
-Air Port Status V1.0
+Airport Status V1.0
 =============
 
 A small PHP webpage to display statistics from a Apple Airport networking device.
