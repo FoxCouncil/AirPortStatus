@@ -3,6 +3,8 @@ Airport Status V1.0
 
 A small PHP webpage to display statistics from a Apple Airport networking device.
 
+![Screenshot](http://i.imgur.com/lM6UfT3.png)
+
 Requires
 =============
 * Webserver (NGINX Prefered)
@@ -18,3 +20,7 @@ Includes
 
 #### Google excanvas.js
 * Apache License, Version 2.0
+ 
+Legend
+=============
+![Screenshot](http://i.imgur.com/BfYmG9f.png)
