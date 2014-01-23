@@ -12,9 +12,9 @@ Requires
 
 Includes
 =============
-## SegmentDisplay by Rüdiger Appel
+#### SegmentDisplay by Rüdiger Appel
 * Published under Creative Commons 3.0 License.
 * http://www.3quarks.com/en/SegmentDisplay
 
-## Google excanvas.js
+#### Google excanvas.js
 * Apache License, Version 2.0
