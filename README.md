@@ -12,9 +12,9 @@ A small PHP webpage to display statistics from a Apple Airport networking device
 
 # Includes
 =============
-* SegmentDisplay by Rüdiger Appel
-** Published under Creative Commons 3.0 License.
-** http://www.3quarks.com/en/SegmentDisplay
+# SegmentDisplay by Rüdiger Appel
+* Published under Creative Commons 3.0 License.
+* http://www.3quarks.com/en/SegmentDisplay
 
-* Google excanvas.js
-** Apache License, Version 2.0
+# Google excanvas.js
+* Apache License, Version 2.0
